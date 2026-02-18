@@ -1,5 +1,5 @@
 let numberList = []
-let max = 50;
+let max = 100;
 let min = 1;
 let secretNumber;
 let tries;
